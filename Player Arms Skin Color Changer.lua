@@ -3,7 +3,7 @@
 local skin_colors =
 {
     "White",
-    "Black",
+    "Nigga",
     "Brown",
     "Asian",
     "Mexican",
